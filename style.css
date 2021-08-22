@@ -1,0 +1,38 @@
+body {
+  min-height: 2900px;
+  width: 100%;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #cad8f0bb;
+  position: relative;
+  height: 100vh;
+}
+
+#gallery {
+  background-color: #cad8f0bb;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.btn-primary {
+  text-align: center;
+  justify-content: center;
+}
+
+#projects {
+  background-color: #cad8f0bb;
+}
+
+@media (max-width: 600px) {
+  #profile-link {
+    width: 90%;
+  }
+}
